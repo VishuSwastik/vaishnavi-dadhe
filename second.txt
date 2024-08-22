@@ -1,0 +1,3 @@
+this is second file
+
+Add second.txt to the staging area.
